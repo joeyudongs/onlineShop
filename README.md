@@ -1,2 +1,2 @@
 # PhoneShop
-An online phone shop web service implemented with SpringMVC and Hibernate
+An online shopping web service implemented with SpringMVC and Hibernate
